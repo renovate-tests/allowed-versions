@@ -1,0 +1,14 @@
+{
+	"name": "allowed-versions",
+	"version": "0.0.1",
+	"dependencies": {
+		"angular": "1.4.0",
+		"angular-sanitize": "1.5.2"
+	},
+	"renovate": {
+		"packageRules": [{
+			"packageNames": ["angular", "angular-sanitize"],
+			"allowedVersions": "<=1.5"
+		}]
+	}
+}
