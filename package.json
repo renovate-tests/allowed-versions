@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"dependencies": {
 		"angular": "1.4.0",
-		"angular-sanitize": "1.5.2"
+		"angular-sanitize": "1.5.11"
 	},
 	"renovate": {
 		"packageRules": [{
