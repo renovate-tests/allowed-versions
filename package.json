@@ -8,7 +8,7 @@
 	"renovate": {
 		"packageRules": [{
 			"packageNames": ["angular", "angular-sanitize"],
-			"allowedVersions": "fff<=1.5"
+			"allowedVersions": "<=1.5"
 		}]
 	}
 }
