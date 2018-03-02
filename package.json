@@ -2,7 +2,7 @@
 	"name": "allowed-versions",
 	"version": "0.0.1",
 	"dependencies": {
-		"angular": "1.4.0",
+		"angular": "1.5.11",
 		"angular-sanitize": "1.5.2"
 	},
 	"renovate": {
