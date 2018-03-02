@@ -7,7 +7,7 @@
 	},
 	"renovate": {
 		"packageRules": [{
-			"packageNames": ["angular", "angular-sanitize"],
+			"extends": ["packages:angularJs"],
 			"allowedVersions": "<=1.5"
 		}]
 	}
